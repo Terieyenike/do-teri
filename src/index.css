@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.3rem;
+  font-family: Montserrat, sans-serif;
+  background-color: #040f16;
+}
+
+a {
+  text-decoration: none;
+  color: #fdfffc;
+  display: inline-block;
+}
+
+.line {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 2em;
+}
+.line span {
+  display: block;
+  position: relative;
+}
+.line span::after {
+  content: '';
+  position: absolute;
+  height: 0.1em;
+  width: 50%;
+  background: rgba(255, 255, 255, 0.35);
+  top: 50%;
+  margin-left: 0.55em;
+}
+
+@media screen and (min-width: 768px) {
+  .line span::after {
+    width: 30%;
+  }
+}
