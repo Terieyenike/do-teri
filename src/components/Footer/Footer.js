@@ -30,7 +30,7 @@ const Footer = () => {
             <SecondColumn>
               <Paragraph>
                 <a
-                  href='https://github.com/terieyenike/v2'
+                  href='https://github.com/Terieyenike/do-teri'
                   target='_blank'
                   rel='noopener noreferrer'>
                   Designed & Built by Teri Eyenike
