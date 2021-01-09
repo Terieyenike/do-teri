@@ -35,11 +35,12 @@ export const ThirdColumn = styled.div`
   }
 
   a > span {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 
   .friend {
     margin: 1.5em 0 1em;
+    font-size: 0.85rem;
   }
   @media screen and (min-width: 768px) {
     .friend {
@@ -49,5 +50,5 @@ export const ThirdColumn = styled.div`
 `;
 
 export const Paragraph = styled.p`
-  font-size: 1.2rem;
+  font-size: 0.85rem;
 `;
