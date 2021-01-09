@@ -1,6 +1,6 @@
 Current version of [teri.netlify.app](https://teri.netlify.app) built with [React](http://reactjs.org/) and hosted/deployed on [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/)
 
-Previous iteration: [v1](https://terieyenike.github.io/v1), [v2](https://terieyenike.github.io/v2/)
+Previous iteration: [v1](https://terieyenike.github.io/v1), [v2](https://do-teri-qeuse.ondigitalocean.app/)
 
 ![image](https://user-images.githubusercontent.com/25850598/103984246-11713a00-5187-11eb-81a1-898a2fc088ab.png)
 
